@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 Text t = Text(
-  "Helloooo flutter",
+  "Helloooo fluttttter",
   textDirection: TextDirection.rtl,
   textAlign: TextAlign.center,
   style: TextStyle(
